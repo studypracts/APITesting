@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2125" started-at="2019-07-02T06:34:47Z" finished-at="2019-07-02T06:34:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2125" started-at="2019-07-02T06:34:47Z" finished-at="2019-07-02T06:34:49Z">
+      <class name="com.restassuredtraining.com.basicAuth">
+        <test-method status="PASS" signature="basicAuthorization()[pri:0, instance:com.restassuredtraining.com.basicAuth@5b275dab]" name="basicAuthorization" duration-ms="2103" started-at="2019-07-02T06:34:47Z" finished-at="2019-07-02T06:34:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicAuthorization -->
+      </class> <!-- com.restassuredtraining.com.basicAuth -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
